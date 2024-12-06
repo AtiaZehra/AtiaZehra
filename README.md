@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiazehra&label=Profile%20views&color=0e75b6&style=flat" alt="atiazehra" /> </p>
-🔭 I’m currently working on **portfolio website**
-- 🌱 I’m currently learning **XML**
-- 📫 How to reach me **atiazehra1566316@gmail.com**
+🔭 I’m currently working on **portfolio website** <br>
+- 🌱 I’m currently learning **XML** <br>
+- 📫 How to reach me **atiazehra1566316@gmail.com**<br>
 - ⚡ Fun fact **I am creative**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
